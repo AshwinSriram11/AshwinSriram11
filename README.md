@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi everyone! I am a student at IIT BHU, highly interested in web development and open source. I also do competitive programming and would love to use new tools and learn new technologies.</h3>
+
+- 🌱 I’m currently learning **about open source and web development.**
+
+- 👯 I’m looking to collaborate on **full stack projects.**
+
+- 🤝 I’m looking for help with **open source.**
+
+- 💬 Ask me about **react,tailwind.**
 
 - 📫 How to reach me **ashwinsriram11@gmail.com**
 
